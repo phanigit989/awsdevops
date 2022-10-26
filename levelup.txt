@@ -1,1 +1,2 @@
-Hi Good evening
+Hi Good evening 
+we are learning today GIT operations
